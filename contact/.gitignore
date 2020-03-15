@@ -1,5 +1,3 @@
-# Local Netlify folder
 .netlify
-
-# manual
+.cache
 node_modules
